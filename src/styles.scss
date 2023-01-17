@@ -16,7 +16,7 @@ body {
   color: #333;
 }
 
-.container1 {
+.container {
   max-width: 1000px;
   margin: 0 auto;
 }
@@ -65,7 +65,7 @@ img {
   color: #fff;
 }
 
-.form-control1 {
+.form-control {
   display: block;
   margin-top: 0.3rem;
   margin-bottom: .5rem;
@@ -170,7 +170,7 @@ hr {
 }
 
 
-.col-2, .col-8 {
+.col-1, .col-2 {
   position: relative;
   width: 100%;
   padding-right: 15px;
@@ -181,7 +181,7 @@ hr {
   margin-top: 4rem;
 }
 
-div.chat-content1 {
+div.chat-content {
   border-radius: .25rem;
   height: 35rem;
 }
@@ -190,7 +190,7 @@ div.chat-content1 {
   height: 100%;
 }
 
-.list-group1 {
+.list-group {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-direction: column;
@@ -199,7 +199,7 @@ div.chat-content1 {
   margin-bottom: 0
 }
 
-.list-group-flush1 {
+.list-group-flush {
   .list-group-item {
     border-right-width: 0;
     border-left-width: 0;
@@ -210,13 +210,13 @@ div.chat-content1 {
   }
 
   &:last-child {
-    .list-group-item1:last-child {
+    .list-group-item:last-child {
       border-bottom-width: 0;
     }
   }
 }
 
-.list-group-item1 {
+.list-group-item {
   position: relative;
   display: block;
   padding: .75rem 1.25rem;

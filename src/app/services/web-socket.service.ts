@@ -5,7 +5,6 @@ import {ChatMessageDto} from '../models/chatMessageDto';
   providedIn: 'root'
 })
 export class WebSocketService {
-
   webSocket: WebSocket;
   chatMessages: ChatMessageDto[] = [];
 
