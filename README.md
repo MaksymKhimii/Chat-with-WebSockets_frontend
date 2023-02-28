@@ -2,11 +2,15 @@
 This is frontend part of Chat Application.
 
 Technologies: 
+- Java 11
+- Spring Boot
 - Angular 
 - TypeScript
 - JavaScript
 - HTML
 - CSS/SCSS
+- Maven
+- WebSockets
 
 In this chat you can chat anonymously by changing your name.
 
